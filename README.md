@@ -71,7 +71,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![](mmmmm.png)
+![](m.png)
 
 
 ## Result
